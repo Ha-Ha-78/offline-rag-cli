@@ -1,0 +1,5 @@
+chromadb
+ollama
+pymupdf
+tqdm
+langchain-text-splitters

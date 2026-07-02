@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+.venv/
+my_venv/
+
+# Chroma Database
+src/database/
+
+# User Config
+src/config/config.json
+
+# Metadata
+src/data/indexed_files.json
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
